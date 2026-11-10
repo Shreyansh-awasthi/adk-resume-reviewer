@@ -1,1 +1,5 @@
+google-adk[extensions]>=2.0.0
+litellm
+python-dotenv
+streamlit
 pypdf
