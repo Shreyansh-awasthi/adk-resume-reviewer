@@ -4,7 +4,7 @@ A multi-agent AI pipeline that compares a resume with a job description and retu
 
 Built with [Google ADK](https://google.github.io/adk-docs/), [LiteLLM](https://docs.litellm.ai/), and a Qwen model hosted on [Groq](https://console.groq.com/).
 
-## How it works
+## How it workks
 
 Three agents run in order using ADK's `SequentialAgent`. Each one saves its result to session state, and the next agent reads it.
 
