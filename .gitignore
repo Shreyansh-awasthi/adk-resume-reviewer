@@ -1,0 +1,20 @@
+﻿# Secrets
+.env
+.streamlit/secrets.toml
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# ADK local data
+.adk/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
